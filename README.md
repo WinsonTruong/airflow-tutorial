@@ -1,3 +1,7 @@
+NOTE: None of the following code in this repository is my own. 
+All credits go to Tuan Vu
+
+
 Airflow tutorial
 ---
 
